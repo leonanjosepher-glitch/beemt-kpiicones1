@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="170" fill="#D9F2CF"/>
+  <!-- leaf outline -->
+  <path d="M262 156
+           C220 160 188 186 178 226
+           C166 274 194 320 242 332
+           C292 344 338 314 354 260
+           C364 226 364 190 362 156
+           C334 166 300 170 262 156 Z"
+        fill="none" stroke="#47A832" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- joined stem and central vein -->
+  <path d="M182 366
+           C188 346 198 328 214 306
+           C232 274 258 246 300 212"
+        fill="none" stroke="#47A832" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
